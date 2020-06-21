@@ -8,3 +8,5 @@ all things you need to learn about openCV projects
                2.pedestrain 
                3.eye and face 
                4.nose and mouth
+
+# 3 all things you need is here like images and video use in code , notebooks , and cascade classifier file jsut download it.
